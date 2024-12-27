@@ -1,0 +1,6 @@
+*
+!.gitignore
+!fs.go
+!*.csv
+!*.xlx
+!*.xlxs
